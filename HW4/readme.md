@@ -1,2 +1,2 @@
 # Homework 4
-Semantic segmentation using KMeans and FCM
+Semantic segmentation using clustering(KMeans and FCM)
